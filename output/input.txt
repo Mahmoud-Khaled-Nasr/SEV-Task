@@ -1,0 +1,4 @@
+time speed acceleration current power
+0 10 1 10 50
+1 20 2 20 120
+2 10 -1 10 10
