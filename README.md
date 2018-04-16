@@ -6,7 +6,7 @@ Java using JavaFX as the GUI library
 Linux (Kde neon)
 
 ## source code
-Can be found [here](https://github.com/Mahmoud-Khaled-Nasr/SEV-Task/blob/master/src/sample/Main.java) 
+Can be found [here](https://github.com/Mahmoud-Khaled-Nasr/SEV-Task/blob/master/src) 
 
 # Notes for Executing
 1. JavaRE must be installed.
